@@ -1,0 +1,32 @@
+
+body{
+    font-family: 'PT Serif', serif;
+}
+
+.bg-yellow {
+    background-color: #FFC017; 
+}
+
+.border-dark {
+    border-bottom: 1px solid #222222;
+}
+
+.start-dark{
+    background-color: rgba(25, 25, 25, 1);
+}
+
+.aside-bottoms li {
+    margin-bottom: 10px;
+}
+
+.border-gri {
+   background-color: 1px solid rgba(0,0,0,0.8)
+}
+
+.list-ki li {
+    background-color: 1px solid red;
+}
+
+.bmm {
+    border-bottom: 1px solid rgba(230, 230, 230, 1);
+}
